@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "Eslint"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/ta-19e/jest-04-04-2022/issues"
   },
-  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme"
+  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
 }
