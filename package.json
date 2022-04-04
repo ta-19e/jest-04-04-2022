@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ta-19e/jest-04-04-2022/issues"
   },
-  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme"
+  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
