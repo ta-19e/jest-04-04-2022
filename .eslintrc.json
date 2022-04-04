@@ -9,6 +9,7 @@
     "ecmaVersion": "latest"
   },
   "rules": {
-    "no-undef": "warn"
+    "no-undef": "warn",
+    "quotes": ["warn", "double"]
   }
 }
