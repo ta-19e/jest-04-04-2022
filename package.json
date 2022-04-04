@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ta-19e/jest-04-04-2022/issues"
   },
-  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme"
+  "homepage": "https://github.com/ta-19e/jest-04-04-2022#readme",
+  "dependencies": {
+    "eslint": "^8.12.0"
+  }
 }
